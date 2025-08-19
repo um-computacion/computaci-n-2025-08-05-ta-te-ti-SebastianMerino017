@@ -1,0 +1,11 @@
+2025-08-18 23:10:46.855 [info] Native locator: Refresh started
+2025-08-18 23:10:46.917 [info] Native locator: Refresh started
+2025-08-18 23:10:46.952 [info] > pyenv which python
+2025-08-18 23:10:46.952 [info] cwd: .
+2025-08-18 23:10:47.557 [info] Native locator: Refresh finished in 698 ms
+2025-08-18 23:10:47.599 [info] Python interpreter path: /usr/bin/python
+2025-08-18 23:10:49.792 [info] Starting Pylance language server.
+2025-08-18 23:10:52.156 [info] CreateEnv Trigger - Skipping for /root/computaci-n-2025-08-05-ta-te-ti-SebastianMerino017/tateti/cli.py
+2025-08-18 23:10:52.690 [info] Send text to terminal: /usr/bin/python /root/computaci-n-2025-08-05-ta-te-ti-SebastianMerino017/tateti/cli.py
+2025-08-18 23:12:12.489 [info] Discover tests for workspace name: tateti - uri: /root/computaci-n-2025-08-05-ta-te-ti-SebastianMerino017/tateti/tablero.py
+2025-08-18 23:12:15.272 [info] Send text to terminal: /usr/bin/python /root/computaci-n-2025-08-05-ta-te-ti-SebastianMerino017/tateti/cli.py

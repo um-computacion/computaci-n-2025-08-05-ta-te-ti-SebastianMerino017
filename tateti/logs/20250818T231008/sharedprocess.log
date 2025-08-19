@@ -1,0 +1,19 @@
+2025-08-18 23:10:28.275 [info] Getting Manifest... ms-python.python
+2025-08-18 23:10:28.619 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.1","date":"2025-04-04T15:58:59.624Z"}}
+2025-08-18 23:10:29.988 [info] Getting Manifest... ms-python.vscode-pylance
+2025-08-18 23:10:30.001 [info] Getting Manifest... ms-python.debugpy
+2025-08-18 23:10:31.167 [info] Skipping the packed extension as it cannot be installed ms-python.vscode-python-envs Can't install 'ms-python.vscode-python-envs' extension because it is not compatible with the current version of Visual Studio Code (version 1.99.1).
+2025-08-18 23:10:31.194 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.1","date":"2025-04-04T15:58:59.624Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-08-18 23:10:31.195 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.1","date":"2025-04-04T15:58:59.624Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-08-18 23:10:36.850 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 1494ms.
+2025-08-18 23:10:37.492 [info] Extracted extension to file:///root/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64: ms-python.debugpy
+2025-08-18 23:10:37.500 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 964ms.
+2025-08-18 23:10:37.518 [info] Renamed to /root/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64
+2025-08-18 23:10:39.337 [info] Extracted extension to file:///root/.vscode/extensions/ms-python.python-2025.12.0-linux-x64: ms-python.python
+2025-08-18 23:10:39.421 [info] Renamed to /root/.vscode/extensions/ms-python.python-2025.12.0-linux-x64
+2025-08-18 23:10:40.418 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 1087ms.
+2025-08-18 23:10:45.615 [info] Extracted extension to file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.6.2: ms-python.vscode-pylance
+2025-08-18 23:10:45.901 [info] Renamed to /root/.vscode/extensions/ms-python.vscode-pylance-2025.6.2
+2025-08-18 23:10:45.921 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/root/.vscode/extensions/extensions.json
+2025-08-18 23:10:45.921 [info] Extension installed successfully: ms-python.python vscode-userdata:/root/.vscode/extensions/extensions.json
+2025-08-18 23:10:45.922 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/root/.vscode/extensions/extensions.json
